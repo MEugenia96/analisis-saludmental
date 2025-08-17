@@ -19,3 +19,5 @@ El objetivo es identificar patrones y visualizar la relación entre género y ni
 
 Este proyecto está en desarrollo.
 Se irán sumando nuevas visualizaciones, métricas y conclusiones a medida que avance el análisis.
+
+Data: https://www.kaggle.com/datasets/imtkaggleteam/mental-health
